@@ -1,0 +1,143 @@
+{
+  "url": "https://www.nus.edu.sg/",
+  "site": "nus",
+  "page": "home",
+  "fetched_at": "2026-10-21T15:00:55+08:00",
+  "user_agent": "MGMT6110-class-audit (educational; weekly)",
+  "outcome": "ok",
+  "outcome_note": "fetched and read.",
+  "robots": {
+    "url": "https://www.nus.edu.sg/robots.txt",
+    "status": 200,
+    "rules_read": false,
+    "note": "robots.txt answered with an HTML page, not a rules file, so no rules apply.",
+    "allowed": true,
+    "group_used": null,
+    "matched_rule": null
+  },
+  "http": {
+    "status": 200,
+    "final_url": "https://www.nus.edu.sg/",
+    "redirected": false,
+    "response_ms": 1887,
+    "bytes": 72190,
+    "content_type": "text/html; charset=utf-8",
+    "content_language_header": null,
+    "server_header": null
+  },
+  "challenge": null,
+  "facts": {
+    "title": "NUS - National University of Singapore",
+    "title_length": 38,
+    "lang": null,
+    "meta_viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+    "meta_description_present": true,
+    "meta_robots": null,
+    "visible_word_count": 706,
+    "landmarks": {
+      "header": true,
+      "main": false,
+      "footer": true
+    },
+    "headings": {
+      "h1_count": 0,
+      "h1": [],
+      "h2_count": 5,
+      "h2": [
+        "Sidebar",
+        "NUS Highlights",
+        "President's Welcome",
+        "NUS Now",
+        "Thought Leadership"
+      ],
+      "h3_count": 10
+    },
+    "navigation": {
+      "landmark_count": 2,
+      "landmarks": [
+        {
+          "label": null,
+          "links": 63,
+          "top_level_link_count": 8,
+          "top_level_links": [
+            "Home",
+            "Admissions",
+            "Education",
+            "Research",
+            "Sustainability",
+            "News",
+            "Giving",
+            "About"
+          ]
+        },
+        {
+          "label": null,
+          "links": 0,
+          "top_level_link_count": 0,
+          "top_level_links": []
+        }
+      ],
+      "aria_current_count": 0,
+      "home_links": 13
+    },
+    "search": {
+      "search_form": true,
+      "search_input": true,
+      "search_button_or_toggle": true
+    },
+    "breadcrumbs": {
+      "present": true,
+      "signs": [
+        "class or id mentions breadcrumb"
+      ]
+    },
+    "images": {
+      "total": 26,
+      "missing_alt": 3,
+      "empty_alt": 7
+    },
+    "links": {
+      "total": 201,
+      "empty_text": 25,
+      "vague_text_total": 3,
+      "vague_text_by_phrase": {
+        "learn more": 3
+      }
+    },
+    "forms": {
+      "forms": 2,
+      "inputs": 1,
+      "inputs_without_label": 1,
+      "unlabelled_with_placeholder_only": 1,
+      "unlabelled_types": [
+        "text"
+      ]
+    },
+    "skip_link": {
+      "present": false
+    },
+    "footer_contact": {
+      "footer_found": true,
+      "phone_pattern": true,
+      "email_pattern": false,
+      "postal_address_pattern": true
+    },
+    "cookie_banner_hints": [
+      "script from cdn.jsdelivr.net mentions consent or cookies",
+      "script from nus.edu.sg mentions consent or cookies"
+    ],
+    "scripts": {
+      "total": 27,
+      "external": 18,
+      "third_party_hosts": [
+        "cdn.jsdelivr.net",
+        "nus.edu.sg"
+      ]
+    },
+    "help_faq_contact_links": [
+      "Contact us"
+    ],
+    "carousel_or_slider_hints": 9,
+    "autoplay_media": 0
+  }
+}

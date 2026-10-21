@@ -1,0 +1,22 @@
+{
+  "url": "https://www.smu.edu.sg/",
+  "site": "smu",
+  "page": "home",
+  "fetched_at": "2026-10-21T15:01:06+08:00",
+  "user_agent": "MGMT6110-class-audit (educational; weekly)",
+  "outcome": "network_error",
+  "outcome_note": "robots.txt could not be read (Tunnel connection failed: 403 Forbidden), so no page on this host is fetched.",
+  "robots": {
+    "url": "https://www.smu.edu.sg/robots.txt",
+    "status": null,
+    "rules_read": false,
+    "note": "robots.txt could not be read (Tunnel connection failed: 403 Forbidden), so no page on this host is fetched.",
+    "error": "network_error",
+    "allowed": false,
+    "group_used": null,
+    "matched_rule": null
+  },
+  "http": null,
+  "challenge": null,
+  "facts": null
+}
